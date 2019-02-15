@@ -7,7 +7,7 @@ academiejaar 2017-2018\
 jaar 3 semester 1-2
 
  # Voornaam Naam
- Kevin Van de Vyver
+Kevin Van de Vyver
  
 ## Opdrachtomschrijving
 
