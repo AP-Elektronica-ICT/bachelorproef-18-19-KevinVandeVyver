@@ -9,7 +9,7 @@ plaatsgevonden-->
 Serge Horsmans
 serge.horsmans@ap.be
 
-#### stagementors
+#### Stagementors
 Wesley Swartele
 wesley.swartele@silta-ict.be
 
