@@ -20,7 +20,7 @@ Een high performing en high available serveromgeving (DELL) ontwikkelen gebruik 
 ## Technische omschrijving
 <!--Technische omschrijving van de evolutie van het project tijdens de betrokken periode, met aanduiding van de reeds bekomen resultaten en een planning voor de verdere uitwerking, welke problemen zijn ondervonden en hun oplossingen:-->
 <!--Minimum 750 woorden-->
-### Evolutie/resultaten
+### Evolutie
 
 Om het project te starten, werd eerst een onderzoek verricht naar de vereiste technologieën. Eens hier een duidelijk beeld van was, kon het infrastructuur design worden opgesteld om de technologieën op te splitsen over de beschikbare servers. Belangrijk hierbij was het geheugen van de harde schijven en de RAID configuratie, omdat de toepassingen in een cluster (groep) komen voor redundantie. Nadat alle opties overwogen waren met elkaar, konden de servers opgebouwd worden. Om een goede balans te creëren, worden er 2 servers gebruikt in RAID 10 voor de VM’s en de 3e server is configureerd met een RAID 5 voor de back-ups en replicaties. Eens de servers waren opgebouwd, werd de remote connection (iDRAC) in orde gebracht zodat er vanop afstand (via webbrowser) aan de servers gewerkt kan worden. Om effectief aan de webbrowser te geraken moet ook het netwerk in orde gebracht worden. Het netwerk opstellen was dan ook de volgende stap.
 
